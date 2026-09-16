@@ -1,0 +1,7 @@
+[extension]
+id = "line_numbers_toggle"
+name = "Line Numbers Toggle"
+version = "0.1.0"
+description = "Line Numbers Toggle extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
